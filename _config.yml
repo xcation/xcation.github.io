@@ -4,7 +4,7 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: fork闫肃
+  name: xcation
   email: yyy541501@gmail.com
   link: http://xcation.github.io/
   weibo: http://weibo.com/idreamnet
@@ -17,17 +17,13 @@ url: http://xcation.github.io/
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: http://yansu-uploads.stor.sinaapp.com/imgs/gavatar.png
-favicon: http://yansu-uploads.stor.sinaapp.com/imgs/favicon.ico
+gavatar: http://xcation.github.io/images/gavatar.jpg
+favicon: http://xcation.github.io/images/favicon.ico
 
-# google analytics 设置
-ga:
-  id: UA-43667383-1
-  url: yansu.org
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: xcation-zh
 
 # 主题设置，自动激活某个标签
 active: 技术
