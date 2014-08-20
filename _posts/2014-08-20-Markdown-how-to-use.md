@@ -38,10 +38,10 @@ description: Markdown 常用语法
       /**
       * @param args
    */
-	   public static void main(String[] args) {
-	   System.out.println("HelloWorld!");
+   public static void main(String[] args) {
+   System.out.println("HelloWorld!");
 
-	   }
+   }
 
     }
 ### 链接
