@@ -32,16 +32,13 @@ description: Markdown 常用语法
     你可以写入代码等,每行文字只要输入两个Tab再输入文字即可
     这里你可以输入一段代码
 
-### 比如我们可以在多行文本框里输入一段代码,来一个Java版本的HelloWorld吧
+### 比如我们可以在多行文本框里输入一段代码,来一个PHP版本的HelloWorld吧
     public class HelloWorld {
 
       /**
       * @param args
-   */
-   public static void main(String[] args) {
-   System.out.println("HelloWorld!");
-
-   }
+      */
+      echo "Helloworld!";
 
     }
 ### 链接
